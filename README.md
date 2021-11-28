@@ -2,11 +2,14 @@
   <i>Python Practices</i>
 <br><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></div>
 <h6>EXERCISE ONE</h6><img align="right" src="https://user-images.githubusercontent.com/85580881/143723721-43f7f367-3ed3-436d-9988-6018936559a0.png" width="300")>
-Write a program that prints the number of characters in a user's name. You might need to Google for a function that calculates the length of a string.
-<br><br>
-e.g.
+A program that prints the number of characters in a user's name. 
 <br>
-Your program should work for different inputs. e.g. any name that you input.
 <p>
-<h6># In Python String is a sequenci of letters</h6>  
+<h6># In Python String is a sequenci of letters<br>
+# Length (len) return the number of elements in a list<br>
+# You can put functions inside other functions</h6><br>
+
+<h6>EXERCISE TWO</h6>
+Input () will get user input in console
+<h6># Then print () will print the world "hello" and the user input</h6><br>
 </p>
