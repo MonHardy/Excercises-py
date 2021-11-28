@@ -12,4 +12,13 @@ A program that prints the number of characters in a user's name.
 <h6>EXERCISE TWO</h6>
 Input () will get user input in console
 <h6># Then print () will print the world "hello" and the user input</h6><br>
+<br>
+<h6>EXERCISE THREE</h6>
+Python Variables<br><br>
+<br>
+<h6>EXERCISE FOUR</h6>
+Write a program that switches the values stored in the variables a and b. 
+<h6># Do not change the code on lines 1-4 and 12-18. <br>
+# Your program should work for different inputs. <br>
+# e.g. any value of a and b.</h6><br>
 </p>
