@@ -7,5 +7,13 @@ Band name generator. <a href="https://replit.com/@MonHardy/Band-Name-Generator?v
 <p>
 <h6># Combine the name of their city and pet and show them their band name<br>
   # The input cursor shows in a new line</h6>
+  
+
+  <br>
+  <h6>PROJECT TWO</h6> 
+A program that adds the digits in a 2 digit number. <a href="https://replit.com/@MonHardy/Data-Types?v=1">//Run code//
+<br>
+<p>
+<h6>#Ex: 36 = 3 + 6 = 9<br></h6>
 
 </p>
