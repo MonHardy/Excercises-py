@@ -1,0 +1,14 @@
+# MATHEMATICAL OPERATIONS IN PYTHON #
+
+PEMDAS - States the order of priority is:
+ 
+1 - parenthese ()
+2 - exponentes **
+
+igualmente importantes (o mais à esquerda é priorizado):
+3 - multiplication *
+4 - division /
+
+igualmente importantes (o mais à esquerda é priorizado):
+5 - addition +
+6 - subtraction -
