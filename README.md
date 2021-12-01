@@ -16,4 +16,10 @@ A program that adds the digits in a 2 digit number. <a href="https://replit.com/
 <p>
 <h6>#Ex: 36 = 3 + 6 = 9<br></h6>
 
+  <br>
+  <h6>PROJECT THREE</h6> 
+A program that calculates the Body Mass Index (BMI) from a user's weight and height. <a href="https://replit.com/@MonHardy?showcase=2">//Run code//
+<br>
+<p>
+<h6># w/h^2<br></h6>
 </p>
