@@ -17,7 +17,7 @@ A program that adds the digits in a 2 digit number. <a href="https://replit.com/
 <h6>#Ex: 36 = 3 + 6 = 9<br></h6>
 
   <br>
-  <h6>PROJECT THREE</h6> 
+ <h6>PROJECT THREE</h6> 
 A program that calculates the Body Mass Index (BMI) from a user's weight and height. <a href="https://replit.com/@MonHardy?showcase=2">//Run code//
 <br>
 <p>
@@ -25,6 +25,11 @@ A program that calculates the Body Mass Index (BMI) from a user's weight and hei
 </p>
   
   <br>
-  <h6>PROJECT FOUR</h6>A program using maths and f-Strings that tells us how many days, weeks, months we have left if we live until 90 years old.<a href="https://replit.com/@MonHardy/Life-in-Weeks?v=1"> //Run code//
+ <h6>PROJECT FOUR</h6>A program using maths and f-Strings that tells us how many days, weeks, months we have left if we live until 90 years old.<a href="https://replit.com/@MonHardy/Life-in-Weeks?v=1"> //Run code//
+<br>
+</p>
+  
+   <br>
+  <h6>PROJECT FIVE</h6>A program that calculates bills.<a href="https://replit.com/@MonHardy/tip-calculator-start?v=1"> //Run code//
 <br>
 </p>
