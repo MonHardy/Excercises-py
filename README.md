@@ -32,7 +32,9 @@ A program that calculates the Body Mass Index (BMI) from a user's weight and hei
    <br>
   <h6>PROJECT FIVE</h6>A program that calculates bills.<a href="https://replit.com/@MonHardy/tip-calculator-start?v=1"> //Run code//
 <br>
+   <br>
+  <h6>PROJECT SIX</h6>    Write a program that works out whether if a given number is an odd or even number.<a href="https://replit.com/@MonHardy/day-3-1-exercise?v=1"> //Run code//
+<br>
 </p>
 <h1></h1>
 <h6><a href="https://github.com/MonHardy"><img align="right" img src="https://user-images.githubusercontent.com/85580881/124641508-2b08eb00-de65-11eb-84ee-652146af2591.png" width="80" height="80"></a></h6><p>
-
