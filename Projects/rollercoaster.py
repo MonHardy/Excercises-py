@@ -1,3 +1,5 @@
+#exercise with if/elif/else
+
 print("Welcome to the rollercoaster!")
 height = int(input("what is your height in cm? "))
 
