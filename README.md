@@ -35,8 +35,9 @@ A program that calculates the Body Mass Index (BMI) from a user's weight and hei
    <br>
   <h6>PROJECT SIX</h6>    Write a program that works out whether if a given number is an odd or even number.<a href="https://replit.com/@MonHardy/day-3-1-exercise?v=1"> //Run code//
 <br>
-</p>
-  <h6>PROJECT SEVEN</h6>    Write a program - Pizza delivery.<a href="https://replit.com/@MonHardy/day-3-1-exercise?v=1"> //Run code//
+<br>    
+<p>
+  <h6>PROJECT SEVEN</h6>    Write a program - Pizza delivery.<a href="https://replit.com/@MonHardy/pizza-python?v=1"> //Run code//
 <br>
 </p>
 <h1></h1>
