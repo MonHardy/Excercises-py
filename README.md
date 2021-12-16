@@ -40,5 +40,14 @@ A program that calculates the Body Mass Index (BMI) from a user's weight and hei
   <h6>PROJECT SEVEN</h6>    Write a program - Pizza delivery.<a href="https://replit.com/@MonHardy/pizza-python?v=1"> //Run code//
 <br>
 </p>
+<br>    
+<p>
+  <h6>PROJECT EIGHT</h6>   write a program that tests the compatibility between two people.<a href="https://replit.com/@MonHardy/Love-Calculator#main.py"> //Run code//
+    <h6>#Take both people's names and check for the number of times the letters in the word TRUE occurs. Then check for the number of times the letters in the word LOVE occurs. Then combine these numbers to make a 2 digit number.<br>
+    #For Love Scores less than 10 or greater than 90<br>
+    #For Love Scores between 40 and 50<br>
+      #Otherwise</h6>
+<br>
+</p>
 <h1></h1>
 <h6><a href="https://github.com/MonHardy"><img align="right" img src="https://user-images.githubusercontent.com/85580881/124641508-2b08eb00-de65-11eb-84ee-652146af2591.png" width="80" height="80"></a></h6><p>
