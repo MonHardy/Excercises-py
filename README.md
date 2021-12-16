@@ -42,7 +42,7 @@ A program that calculates the Body Mass Index (BMI) from a user's weight and hei
 </p>
 <br>    
 <p>
-  <h6>PROJECT EIGHT</h6>   write a program that tests the compatibility between two people.<a href="https://replit.com/@MonHardy/Love-Calculator#main.py"> //Run code//
+  <h6>PROJECT EIGHT</h6>   write a program that tests the compatibility between two people.<a href="https://replit.com/@MonHardy/Love-Calculator?v=1"> //Run code//
     <h6>#Take both people's names and check for the number of times the letters in the word TRUE occurs. Then check for the number of times the letters in the word LOVE occurs. Then combine these numbers to make a 2 digit number.<br>
     #For Love Scores less than 10 or greater than 90<br>
     #For Love Scores between 40 and 50<br>
