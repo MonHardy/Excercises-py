@@ -39,8 +39,8 @@ if start == "s" or start == "sim":
             else:
                print("Você não pode ficar em cima do muro... Há quatro respostas possíveis para essa situação. Pare de ser covarde e tome uma atitude!")  
    elif parte1 == "direita":
-      print("\nVocê parte pela direita até chegar a uma estrada onde as árvores tomaram csonta do caminho, é possível ouvir os lobos não muito longe dali. Você fica com medo, tenta voltar, mas quanto mais procura pelo caminho de onde veio, mais perdido fica. Você se perdeu na estrada para lugar nenhum de onde ninguém jamais conseguiu voltar. Dizem que este é o caminho dos indecisos, os que tiveram tanto medo da incerteza dos seus futuros que se perderam eternamente entre o passado e o presente. \n Fim de jogo!")
+      print("\nVocê parte pela direita até chegar a uma estrada onde as árvores tomaram conta do caminho, é possível ouvir os lobos não muito longe dali. Você fica com medo, tenta voltar, mas quanto mais procura pelo caminho de onde veio, mais perdido fica. Você se perdeu na estrada para lugar nenhum de onde ninguém jamais conseguiu voltar. Dizem que este é o caminho dos indecisos, os que tiveram tanto medo da incerteza dos seus futuros que se perderam eternamente entre o passado e o presente. \n Fim de jogo!")
    else:
-      print("Você volta para o mesmo lugar mas as placas sumiram e não há mais nada que possa fazer a não ser andar na neblina pela eternidade. Que azar!")
+      print("Você volta para o mesmo lugar mas as placas sumiram e agora há um grupo de ladrões prontos para te roubar. Que azar!")
 else: 
    print("Que pena! Foi bom te conhecer!")
