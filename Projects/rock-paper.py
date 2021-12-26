@@ -32,7 +32,10 @@ trio = [rock, paper, scissors]
 
 #user
 choice = int(input("What's your choice? (0 for rock, 1 for paper and 2 ffor scissors) "))
-print(trio[choice])
+if choice >= 3 or choice < 0: 
+  print("You typed an invalid number, you lose!")
+else:
+  print(trio[choice])
 
 #computer
 randompc = random.randint(0, 2)
@@ -42,9 +45,7 @@ print(trio[randompc])
 #0 = pedra
 #1 = papel
 #2 = tesoura
-if choice >= 3 or choice < 0: 
-  print("You typed an invalid number, you lose!") 
-elif choice == 0 and randompc == 2:
+if choice == 0 and randompc == 2:
   print("You win!")
 elif randompc == 0 and choice == 2:
   print("You lose")
